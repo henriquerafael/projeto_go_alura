@@ -1,1 +1,1 @@
-# Projeto Go Inicial Alura CICO
+# Projeto Go Inicial Alura CI/CD
